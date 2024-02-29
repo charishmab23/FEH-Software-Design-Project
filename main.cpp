@@ -1,9 +1,3 @@
-/*  Name:  Tyler Cobb                         */
-/*  Date:  10/16/2023                             */
-/*  Assignment:  APP W08B-1                       */
-/*  Seat:  21       Instructor:  Paul Cligan        Time:  3:00 */
-
-
 #include "FEHLCD.h"
 #include "FEHUtility.h"
 #include "FEHImages.h"
